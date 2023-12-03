@@ -31,7 +31,7 @@ const Quiz = () => {
                                 (questionIndex + 1) !== quizs.length ?
                                     <button className='btn py-2 w-100 mt-3 bg-light fw-bold' onClick={nextQuestion} disabled={!selectedAnswer}>Next Question</button>
                                     :
-                                    <button className='btn py-2 w-100 mt-3 bg-light display-6' onClick={showTheResult} disabled={!selectedAnswer}>Show Result </button>
+                                    <button className='btn py-2 w-100 mt-3 bg-light display-6' onClick={showTheResult} disabled={!selectedAnswer}>Show Result</button>
                             }
                         </div>
                     </div>
