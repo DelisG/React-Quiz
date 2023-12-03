@@ -1,0 +1,112 @@
+[
+  {
+    "id": "01",
+    "question": "How does digital inclusion contribute to reducing social inequality?",
+    "options": [
+      "Technology widens the gap between different social groups.",
+      "Digital inclusion perpetuates social disparities.",
+      "Equal opportunities are unrelated to digital inclusion.",
+      "Digital inclusion contributes to reducing social inequality."
+    ],
+    "answer": "Digital inclusion contributes to reducing social inequality."
+  },
+  {
+    "id": "02",
+    "question": "In what way can digital literacy empower individuals in the job market?",
+    "options": [
+      "Digital literacy empowers individuals in the job market by enhancing their skills.",
+      "Job opportunities are not influenced by digital skills.",
+      "Digital literacy creates more barriers to employment.",
+      "The job market is unaffected by technological advancements."
+    ],
+    "answer": "Digital literacy empowers individuals in the job market by enhancing their skills."
+  },
+  {
+    "id": "03",
+    "question": "Why is it crucial to provide internet access in rural and remote areas?",
+    "options": [
+      "Rural communities are not impacted by the lack of internet access.",
+      "The lack of internet access has no consequences for remote areas.",
+      "Providing internet access is crucial for bridging the digital divide in rural and remote areas.",
+      "Lack of internet access hinders educational and economic opportunities."
+    ],
+    "answer": "Providing internet access is crucial for bridging the digital divide in rural and remote areas."
+  },
+  {
+    "id": "04",
+    "question": "How can digital inclusion contribute to fostering cultural diversity?",
+    "options": [
+      "Digital inclusion contributes to fostering cultural diversity.",
+      "Digital inclusion leads to cultural homogenization.",
+      "Technology is unrelated to cultural diversity.",
+      "Cultural diversity is not influenced by digital inclusion."
+    ],
+    "answer": "Digital inclusion contributes to fostering cultural diversity."
+  },
+  {
+    "id": "05",
+    "question": "What role does digital accessibility play in ensuring inclusivity for people with disabilities?",
+    "options": [
+      "Inclusivity is not related to digital accessibility.",
+      "People with disabilities do not benefit from digital advancements.",
+      "Digital accessibility plays a crucial role in ensuring inclusivity for people with disabilities.",
+      "Technology creates more barriers for people with disabilities."
+    ],
+    "answer": "Digital accessibility plays a crucial role in ensuring inclusivity for people with disabilities."
+  },
+  {
+    "id": "06",
+    "question": "How can the lack of digital skills impact the educational development of children and young people?",
+    "options": [
+      "The lack of digital skills creates equal opportunities in education.",
+      "Digital skills are essential for enhancing educational outcomes.",
+      "The lack of digital skills can hinder the educational development of children and young people.",
+      "Educational development is not influenced by technology."
+    ],
+    "answer": "The lack of digital skills can hinder the educational development of children and young people."
+  },
+  {
+    "id": "07",
+    "question": "What challenges do seniors face in adapting to the digital age, and how can society address them?",
+    "options": [
+      "Seniors do not face challenges in adapting to the digital age.",
+      "The challenges of seniors in the digital age are insurmountable.",
+      "Seniors face challenges in adapting to the digital age, and society can address them through education and support.",
+      "Society cannot play a role in addressing the challenges faced by seniors."
+    ],
+    "answer": "Seniors face challenges in adapting to the digital age, and society can address them through education and support."
+  },
+  {
+    "id": "08",
+    "question": "How can digital inclusion impact the availability of healthcare information in underserved communities?",
+    "options": [
+      "Digital inclusion positively impacts the availability of healthcare information in underserved communities.",
+      "Underserved communities have sufficient access to healthcare information.",
+      "Digital inclusion contributes to making healthcare information more accessible.",
+      "Digital inclusion has no impact on healthcare information."
+    ],
+    "answer": "Digital inclusion positively impacts the availability of healthcare information in underserved communities."
+  },
+  {
+    "id": "09",
+    "question": "Why is it important to address the digital gender gap in promoting equal opportunities?",
+    "options": [
+      "The digital gender gap does not impact equal opportunities.",
+      "Gender equality is unrelated to digital inclusion.",
+      "Equal opportunities are not influenced by gender.",
+      "Addressing the digital gender gap is crucial for promoting equal opportunities for all genders."
+    ],
+    "answer": "Addressing the digital gender gap is crucial for promoting equal opportunities for all genders."
+  },
+  {
+    "id": "10",
+    "question": " In what ways can individuals contribute to bridging the digital divide in their communities?",
+    "options": [
+      "Bridging the digital divide is solely the responsibility of governments.",
+      "Individuals can contribute to bridging the digital divide through education and advocacy in their communities.",
+      "Community engagement is unrelated to bridging the digital divide.",
+      "Individuals cannot play a role in bridging the digital divide"
+    ],
+    "answer": "Individuals can contribute to bridging the digital divide through education and advocacy in their communities."
+  }
+]
