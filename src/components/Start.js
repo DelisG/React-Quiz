@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import DataContext from "../context/dataContext";
+import bg from "../bg.png";
 
 const Start = () => {
   const { startQuiz, showStart } = useContext(DataContext);
@@ -11,18 +12,25 @@ const Start = () => {
       <div className="container">
         <div className="row vh-100 align-items-center justify-content-center">
           <div className="col-lg-8">
-            <h1 className="display-5 text-warning">Digital Inclusion</h1>
-            <small className="text-secondary">Inclusão Digital</small>
+            {/* <h1 className="display-5 text-warning">
+              Inclusion for Blind People
+            </h1>
+            <small className="text-secondary">Inclusão para Cegos</small> */}
 
-            <img
-              src="https://rmjm.com/wp-content/uploads/2021/05/Artboard-619.png"
-              alt="Descrição da imagem"
-              className="img-fluid"
-            />
-            <div>
+            <div className="position-relative text-center">
+              <img
+                src={bg}
+                alt="bg de mulher cega com um cachorro"
+                className="img-fluid"
+              />
               <button
                 onClick={startQuiz}
-                className="btn px-4 py-2 btn-outline-primary border fw-bold"
+                className="btn btn-outline-primary border border-primary shadow fw-bold position-absolute"
+                style={{
+                  top: "68%",
+                  left: "60%",
+                  // transform: "translate(-50%, -50%)",
+                }}
               >
                 Start Quiz
               </button>
