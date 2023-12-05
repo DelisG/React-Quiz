@@ -1,112 +1,117 @@
 [
   {
     "id": "01",
-    "question": "How does digital inclusion contribute to reducing social inequality?",
+    "question": "Qual é o sistema de escrita tátil utilizado por pessoas cegas?",
+    "translation": "zero um tradução",
     "options": [
-      "Technology widens the gap between different social groups.",
-      "Digital inclusion perpetuates social disparities.",
-      "Equal opportunities are unrelated to digital inclusion.",
-      "Digital inclusion contributes to reducing social inequality."
+      "Alfabeto fonético internacional",
+      "Libras",
+      "Braille",
+      "Morse"
     ],
-    "answer": "Digital inclusion contributes to reducing social inequality."
+    "answer": "Braille"
   },
   {
     "id": "02",
-    "question": "In what way can digital literacy empower individuals in the job market?",
+    "question": "Qual é a cor da bengala utilizada por pessoas com deficiência visual total?",
+    "translation": "zero um tradução",
     "options": [
-      "Digital literacy empowers individuals in the job market by enhancing their skills.",
-      "Job opportunities are not influenced by digital skills.",
-      "Digital literacy creates more barriers to employment.",
-      "The job market is unaffected by technological advancements."
+      "Bengala verde",
+      "Bengala branca",
+      "Bengala amarela",
+      "Bengala vermelha e branca"
     ],
-    "answer": "Digital literacy empowers individuals in the job market by enhancing their skills."
+    "answer": "Bengala branca"
   },
   {
     "id": "03",
-    "question": "Why is it crucial to provide internet access in rural and remote areas?",
-    "options": [
-      "Rural communities are not impacted by the lack of internet access.",
-      "The lack of internet access has no consequences for remote areas.",
-      "Providing internet access is crucial for bridging the digital divide in rural and remote areas.",
-      "Lack of internet access hinders educational and economic opportunities."
-    ],
-    "answer": "Providing internet access is crucial for bridging the digital divide in rural and remote areas."
+    "question": "Qual recurso é utilizado para auxiliar pessoas cegas na travessia de ruas?",
+    "translation": "",
+    "options": ["Semáforo sonoro", "Placas em braille", "Cão-guia", "Gps"],
+    "answer": "Semáforo sonoro"
   },
   {
     "id": "04",
-    "question": "How can digital inclusion contribute to fostering cultural diversity?",
+    "question": "Qual é a cor da bengala utilizada por pessoas com baixa visão?",
+    "translation": "",
     "options": [
-      "Digital inclusion contributes to fostering cultural diversity.",
-      "Digital inclusion leads to cultural homogenization.",
-      "Technology is unrelated to cultural diversity.",
-      "Cultural diversity is not influenced by digital inclusion."
+      "Bengala verde",
+      " Bengala branca",
+      "Bengala vermelha e branca",
+      "Bengala amarela"
     ],
-    "answer": "Digital inclusion contributes to fostering cultural diversity."
+    "answer": "Bengala verde"
   },
   {
     "id": "05",
-    "question": "What role does digital accessibility play in ensuring inclusivity for people with disabilities?",
+    "question": "Qual é a cor da bengala utilizada por pessoas com surdocegueira?",
+    "translation": "",
     "options": [
-      "Inclusivity is not related to digital accessibility.",
-      "People with disabilities do not benefit from digital advancements.",
-      "Digital accessibility plays a crucial role in ensuring inclusivity for people with disabilities.",
-      "Technology creates more barriers for people with disabilities."
+      "Bengala amarela",
+      "Bengala verde",
+      "Bengala branca",
+      "Bengala vermelha e branca"
     ],
-    "answer": "Digital accessibility plays a crucial role in ensuring inclusivity for people with disabilities."
+    "answer": "Bengala vermelha e branca"
   },
   {
     "id": "06",
-    "question": "How can the lack of digital skills impact the educational development of children and young people?",
+    "question": "Qual é a finalidade do piso tátil em espaços públicos?",
+    "translation": "",
     "options": [
-      "The lack of digital skills creates equal opportunities in education.",
-      "Digital skills are essential for enhancing educational outcomes.",
-      "The lack of digital skills can hinder the educational development of children and young people.",
-      "Educational development is not influenced by technology."
+      "Proporcionar conforto térmico aos pedestres",
+      "Evitar escorregões em áreas molhadas",
+      "Orientar a circulação de pessoas com deficiência visual",
+      "Sinalizar áreas de estacionamento exclusivo"
     ],
-    "answer": "The lack of digital skills can hinder the educational development of children and young people."
+    "answer": "Orientar a circulação de pessoas com deficiência visual"
   },
   {
     "id": "07",
-    "question": "What challenges do seniors face in adapting to the digital age, and how can society address them?",
+    "question": "Como garantir a acessibilidade para pessoas cegas em locais públicos?",
+    "translation": "",
     "options": [
-      "Seniors do not face challenges in adapting to the digital age.",
-      "The challenges of seniors in the digital age are insurmountable.",
-      "Seniors face challenges in adapting to the digital age, and society can address them through education and support.",
-      "Society cannot play a role in addressing the challenges faced by seniors."
+      "Contratando funcionários especializados em inclusão",
+      "Divulgando informações em áudio nas redes sociais",
+      "Oferecendo descontos em estabelecimentos próximos",
+      "Instalando semáforos sonoros e pisos táteis"
     ],
-    "answer": "Seniors face challenges in adapting to the digital age, and society can address them through education and support."
+    "answer": "Instalando semáforos sonoros e pisos táteis"
   },
   {
     "id": "08",
-    "question": "How can digital inclusion impact the availability of healthcare information in underserved communities?",
+    "question": "Quais tecnologias podem ser utilizadas para auxiliar a acessibilidade digital de pessoas cegas?",
+    "translation": "",
     "options": [
-      "Digital inclusion positively impacts the availability of healthcare information in underserved communities.",
-      "Underserved communities have sufficient access to healthcare information.",
-      "Digital inclusion contributes to making healthcare information more accessible.",
-      "Digital inclusion has no impact on healthcare information."
+      "Dispositivos de realidade virtual",
+      "Softwares de leitura de tela",
+      "Aplicativos de navegação por GPS",
+      "Sistemas de reconhecimento facial"
     ],
-    "answer": "Digital inclusion positively impacts the availability of healthcare information in underserved communities."
+    "answer": "Softwares de leitura de tela"
   },
   {
     "id": "09",
-    "question": "Why is it important to address the digital gender gap in promoting equal opportunities?",
+    "question": "Como garantir a acessibilidade em ambientes virtuais para pessoas cegas?",
+    "translation": "",
     "options": [
-      "The digital gender gap does not impact equal opportunities.",
-      "Gender equality is unrelated to digital inclusion.",
-      "Equal opportunities are not influenced by gender.",
-      "Addressing the digital gender gap is crucial for promoting equal opportunities for all genders."
+      "Utilizando recursos de descrição de imagens",
+      "Disponibilizando apenas conteúdo em áudio",
+      "Utilizando fontes grandes e contrastantes",
+      "Exigindo o uso exclusivo do teclado para navegação"
     ],
-    "answer": "Addressing the digital gender gap is crucial for promoting equal opportunities for all genders."
+    "answer": "Utilizando recursos de descrição de imagens"
   },
   {
     "id": "10",
-    "question": " In what ways can individuals contribute to bridging the digital divide in their communities?",
+    "question": "Quais são os principais desafios enfrentados pelas pessoas cegas em relação à acessibilidade digital?",
+    "translation": "",
     "options": [
-      "Bridging the digital divide is solely the responsibility of governments.",
-      "Individuals can contribute to bridging the digital divide through education and advocacy in their communities.",
-      "Community engagement is unrelated to bridging the digital divide.",
-      "Individuals cannot play a role in bridging the digital divide"
+      "Dificuldade de acesso a dispositivos tecnológicos",
+      "Grande na oferta de conteúdo em formato acessível",
+      "Lentidão na navegação de sites e aplicativos",
+      "Falta de descrição adequada de imagens e gráficos"
     ],
-    "answer": "Individuals can contribute to bridging the digital divide through education and advocacy in their communities."
+    "answer": "Falta de descrição adequada de imagens e gráficos"
   }
 ]
