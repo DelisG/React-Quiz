@@ -1,8 +1,8 @@
 [
   {
     "id": "01",
-    "question": "Qual é o sistema de escrita tátil utilizado por pessoas cegas?",
-    "translation": "zero um tradução",
+    "question": "What is the tactile writing system used by blind people?",
+    "translation": "Qual é o sistema de escrita tátil utilizado por pessoas cegas?",
     "options": [
       "Alfabeto fonético internacional",
       "Libras",
@@ -13,8 +13,8 @@
   },
   {
     "id": "02",
-    "question": "Qual é a cor da bengala utilizada por pessoas com deficiência visual total?",
-    "translation": "zero um tradução",
+    "question": "What color cane is used by people with complete visual impairment?",
+    "translation": "Qual é a cor da bengala utilizada por pessoas com deficiência visual total?",
     "options": [
       "Bengala verde",
       "Bengala branca",
@@ -25,15 +25,15 @@
   },
   {
     "id": "03",
-    "question": "Qual recurso é utilizado para auxiliar pessoas cegas na travessia de ruas?",
-    "translation": "",
+    "question": "What resource is used to help blind people cross streets?",
+    "translation": "Qual recurso é utilizado para auxiliar pessoas cegas na travessia de ruas?",
     "options": ["Semáforo sonoro", "Placas em braille", "Cão-guia", "Gps"],
     "answer": "Semáforo sonoro"
   },
   {
     "id": "04",
-    "question": "Qual é a cor da bengala utilizada por pessoas com baixa visão?",
-    "translation": "",
+    "question": "What color cane is used by people with low vision?",
+    "translation": "Qual é a cor da bengala utilizada por pessoas com baixa visão?",
     "options": [
       "Bengala verde",
       " Bengala branca",
@@ -44,8 +44,8 @@
   },
   {
     "id": "05",
-    "question": "Qual é a cor da bengala utilizada por pessoas com surdocegueira?",
-    "translation": "",
+    "question": "What color cane is used by people with deafblindness?",
+    "translation": "Qual é a cor da bengala utilizada por pessoas com surdocegueira?",
     "options": [
       "Bengala amarela",
       "Bengala verde",
@@ -56,8 +56,8 @@
   },
   {
     "id": "06",
-    "question": "Qual é a finalidade do piso tátil em espaços públicos?",
-    "translation": "",
+    "question": "What is the purpose of tactile flooring in public spaces?",
+    "translation": "Qual é a finalidade do piso tátil em espaços públicos?",
     "options": [
       "Proporcionar conforto térmico aos pedestres",
       "Evitar escorregões em áreas molhadas",
@@ -68,8 +68,8 @@
   },
   {
     "id": "07",
-    "question": "Como garantir a acessibilidade para pessoas cegas em locais públicos?",
-    "translation": "",
+    "question": "How to ensure accessibility for blind people in public places?",
+    "translation": "Como garantir a acessibilidade para pessoas cegas em locais públicos?",
     "options": [
       "Contratando funcionários especializados em inclusão",
       "Divulgando informações em áudio nas redes sociais",
@@ -80,8 +80,8 @@
   },
   {
     "id": "08",
-    "question": "Quais tecnologias podem ser utilizadas para auxiliar a acessibilidade digital de pessoas cegas?",
-    "translation": "",
+    "question": "What technologies can be used to assist digital accessibility for blind people?",
+    "translation": "Quais tecnologias podem ser utilizadas para auxiliar a acessibilidade digital de pessoas cegas?",
     "options": [
       "Dispositivos de realidade virtual",
       "Softwares de leitura de tela",
@@ -92,8 +92,8 @@
   },
   {
     "id": "09",
-    "question": "Como garantir a acessibilidade em ambientes virtuais para pessoas cegas?",
-    "translation": "",
+    "question": "How to ensure accessibility in virtual environments for blind people?",
+    "translation": "Como garantir a acessibilidade em ambientes virtuais para pessoas cegas?",
     "options": [
       "Utilizando recursos de descrição de imagens",
       "Disponibilizando apenas conteúdo em áudio",
@@ -104,8 +104,8 @@
   },
   {
     "id": "10",
-    "question": "Quais são os principais desafios enfrentados pelas pessoas cegas em relação à acessibilidade digital?",
-    "translation": "",
+    "question": "What are the main challenges faced by blind people in relation to digital accessibility?",
+    "translation": "Quais são os principais desafios enfrentados pelas pessoas cegas em relação à acessibilidade digital?",
     "options": [
       "Dificuldade de acesso a dispositivos tecnológicos",
       "Grande na oferta de conteúdo em formato acessível",
