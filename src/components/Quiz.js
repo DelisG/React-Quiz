@@ -28,10 +28,15 @@ const Quiz = () => {
               style={{ background: "#3d3d3d", borderColor: "#646464" }}
             >
               <div className="d-flex justify-content-between gap-md-3">
-                <h5 className="mb-2 fs-normal lh-base">{question?.question}</h5>
-                <h5 className="mb-2 fs-normal lh-base">
-                  {translation?.translation}
-                </h5>
+                <div>
+                  <h4 className="mb-2 fs-normal lh-base text-warning">
+                    {question?.question}
+                  </h4>
+                  <small className="mb-2 fs-normal lh-base">
+                    {translation?.translation}
+                  </small>
+                </div>
+
                 <small
                   className="text-warning"
                   style={{ width: "100px", textAlign: "right" }}
