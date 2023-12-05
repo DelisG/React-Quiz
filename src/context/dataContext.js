@@ -28,6 +28,7 @@ export const DataProvider = ({ children }) => {
   useEffect(() => {
     if (quizs.length > questionIndex) {
       setQuesion(quizs[questionIndex]);
+      setTranslation(quizs[questionIndex]);
     }
   }, [quizs, questionIndex]);
 
@@ -75,7 +76,6 @@ export const DataProvider = ({ children }) => {
     setShowStart(false);
     setShowResult(false);
     setShowQuiz(true);
-    setTranslation("");
     setCorrectAnswer("");
     setSelectedAnswer("");
     setQuestionIndex(0);
