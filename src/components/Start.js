@@ -11,7 +11,7 @@ const Start = () => {
       style={{ display: `${showStart ? "block" : "none"}` }}
     >
       <div className="container">
-        <div className=" h-100 vh-100 d-flex justify-content-center flex-column">
+        <div className=" vh-100 d-flex justify-content-center flex-column">
             <div className="position-relative text-center px-5 pt-3">
               <img
                 src={bgmd}
