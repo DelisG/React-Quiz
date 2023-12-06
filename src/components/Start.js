@@ -11,7 +11,7 @@ const Start = () => {
       style={{ display: `${showStart ? "block" : "none"}` }}
     >
       <div className="container">
-        <div className="row vh-100 align-items-center justify-content-center">
+        <div className="row h-100 align-items-center justify-content-center">
           <div className="col-lg-10 h-100 d-flex justif-content-center flex-column">
             <div className="position-relative text-center px-5 pt-3">
               <img
@@ -39,21 +39,21 @@ const Start = () => {
                   Start Quiz
                 </span>
               </button>
+              <div className="bg-dark pb-2">
+                <p>
+                  Equipe:
+                  <small className="text-secondary"> Bruna | </small>
+                  <small className="text-secondary">Delis | </small>
+                  <small className="text-secondary">Erika | </small>
+                  <small className="text-secondary">Giovanna</small>
+                </p>
+                <p>
+                  Teacher:
+                  <small className="text-secondary"> Andreza</small>
+                </p>
+              </div>
             </div>
           </div>
-        </div>
-        <div className="bg-dark pb-2">
-          <p>
-            Equipe:
-            <small className="text-secondary"> Bruna | </small>
-            <small className="text-secondary">Delis | </small>
-            <small className="text-secondary">Erika | </small>
-            <small className="text-secondary">Giovanna</small>
-          </p>
-          <p>
-            Teacher:
-            <small className="text-secondary"> Andreza</small>
-          </p>
         </div>
       </div>
     </section>
