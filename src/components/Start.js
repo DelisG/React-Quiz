@@ -11,8 +11,7 @@ const Start = () => {
       style={{ display: `${showStart ? "block" : "none"}` }}
     >
       <div className="container">
-        <div className="row h-100 align-items-center justify-content-center">
-          <div className="col-lg-10 h-100 d-flex justif-content-center flex-column">
+        <div className=" h-100 vh-100 d-flex justify-content-center flex-column">
             <div className="position-relative text-center px-5 pt-3">
               <img
                 src={bgmd}
@@ -55,7 +54,6 @@ const Start = () => {
             </div>
           </div>
         </div>
-      </div>
     </section>
   );
 };
