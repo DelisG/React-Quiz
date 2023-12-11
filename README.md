@@ -1,9 +1,10 @@
 
 # Quiz Interativo sobre Inclusão de Pessoas Cegas
 
- <h2  style="color: green; text-decoration: none;"><strong><a href="https://inclusiondigital.netlify.app/"> 🎥 Visualizar Projeto</a></strong></h2>
 
 Bem-vindo ao Inclusion Digital, um projeto interativo desenvolvido como parte do curso de inglês no Núcleo Escola de Línguas (NEL). Este aplicativo visa sensibilizar sobre a inclusão de pessoas cegas por meio de um quiz educativo. Abaixo, você encontrará informações essenciais para começar a usar e contribuir para o projeto.
+
+ <h2  style="color: green; text-decoration: none;"><strong><a href="https://inclusiondigital.netlify.app/"> 🎥 Visualizar Projeto</a></strong></h2>
 
 ## Sobre o Aplicativo
 
